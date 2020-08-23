@@ -1378,6 +1378,10 @@ li{
 .landing-text h1{
     font-family: 'Faster One', cursive;
 }
+    .loadering{
+    left: calc(84vw - 75px);
+}
+
 }
 
 
